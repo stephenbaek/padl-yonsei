@@ -22,8 +22,8 @@ Course materials for the "Physics-Aware Deep Learning" summer lecture series at 
 | Lecture 7. Physics Informed Neural Networks | [slides](lectures/06_How%20to%20Train%20Convolutional%20Neural%20Networks.pdf) |
 | Lecture 8. Neural Operators | [slides](lectures/08_Neural%20Operators.pdf) |
 | Lecture 9. Physics-Aware Recurrent Convolutions | [slides](lectures/09_Physics-Aware%20Recurrent%20Convolutions.pdf) |
-| Lab 3. Simulating Simple Physics Using PADL | [pinn](labs/03_pinn_harmonic_oscillator.ipynb) <br/> [neural ops.](labs/04_neural_op_1d_burger.ipynb) <br/> [parc](labs/05_parc_harmonic_oscillator.ipynb)
-
+| Lab 3. Simulating Simple Physics Using PADL | [pinn](labs/03_pinn_harmonic_oscillator.ipynb) <br/> [neural ops.](labs/04_neural_op_1d_burger.ipynb) <br/> [parc](labs/05_parc_harmonic_oscillator.ipynb) |
+| Final Project | [guideline](projects/PADL_Term%20Project.pdf) |
 
 
 
